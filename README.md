@@ -13,7 +13,9 @@ https://www.linkedin.com/in/thiago-ouverney/
 
 # Summary
 
-- [Time series Regression Model for VLabs Challange](https://github.com/marcos-mansur/vlabs-challenge) - ElasticNet Regressor to predict LifetimeValue transforming Time Series Model in Supervised Learning Approach. 
+- [Time series Regression Model for VLabs Challange](https://github.com/marcos-mansur/vlabs-challenge) - ElasticNet Regressor to predict LifetimeValue transforming Time Series Model in Supervised Learning Approach;
+
+- [Tabular Data Sep21 Analysis- Kaggle competition](https://github.com/marcos-mansur/TPS-sep21) - LightGBM regressor tuned with bayesian optimization (optuna);
 
 - [Fantasy Soccer Game (Cartola) Predict Players Pontuation](https://github.com/thiago-ouverney/Cartola) - ETL for structure data and prediction;
 
