@@ -19,7 +19,7 @@ https://www.linkedin.com/in/thiago-ouverney/
 
 - [Titanic survival prediction model](https://github.com/thiago-ouverney/Kaggle_Titanic) - Machine Learning model to predict survivability of Titanic passengers. CI basic structure on yaml file to print performance metrics as comments in pull requests + advanced sklearn Pipeline Structure + Optuna for Bayesian Optimization. 
 
-- [RPA Download Multiples Files -TJRJ](https://github.com/thiago-ouverney/TJ_pdf_download) - Selenium Web Automation for download multiples files on TJRJ system.
+- [RPA Download Multiples Files -TJRJ](https://github.com/thiago-ouverney/TJ_pdf_download) - Selenium Web Automation for download multiples files on the Rio de Janeiro Court of Justice system (TJRJ). 
 
 - [RPA Mail Marketing](https://github.com/thiago-ouverney/MalaDireta) - Solution for sending mail marketing customized. 
 
