@@ -2,7 +2,7 @@
 
 I'm Thiago Ouverney and I am using this space to share my public projects to DS community.
 
-Currently, I am working with Data Analytics and Robotic Process Automation focused on Human Resources @ Vale.
+Currently, I am working as a Data Scientist @ Globo.com | Cartola FC (Soccer Fantasy Game)
 Meanwhile, I study Production Engineering at Federal Fluminense University (UFF). 
 
 Running to reach the "Slope of Enlightenment" in the Dunning-Kruger curve.
